@@ -16,6 +16,7 @@ These are the following example test sentences:
 
 # How to run
 To execute type this in terminal:
+
 -> python main.py
 
 Let the epochs run, after which these will pop up, enter these as well:
