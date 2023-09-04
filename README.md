@@ -15,6 +15,14 @@ These are the following example test sentences:
 (You can also use your own.)
 
 # How to run
+To execute type this in terminal:
+-> python main.py
+
+Let the epochs run, after which these will pop up, enter these as well:
+
+Enter the number of test sentences:
+Enter a test sentence:
+
 
 # Output
 output for first sentence : ['DETERMINER', 'NOUN', 'VERB', 'VERB', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
