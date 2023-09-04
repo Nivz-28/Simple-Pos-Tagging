@@ -26,8 +26,9 @@ Enter a test sentence:
 
 
 # Output
-output for first sentence : ['DETERMINER', 'NOUN', 'VERB', 'VERB', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
+1.output for first sentence : ['DETERMINER', 'NOUN', 'VERB', 'VERB', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
 
-output for second sentence : ['NOUN', 'VERB', 'X', 'VERB', 'DETERMINER', 'NOUN', 'PREPOSITION', 'DETERMINER', 'NOUN', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
 
-output for third sentence : ['DETERMINER', 'NOUN', 'NOUN', 'CONJUNCTION', 'PRONOUN', 'NOUN', 'VERB', 'PREPOSITION', 'NOUN', 'DETERMINER', 'NOUN', 'DETERMINER', 'NOUN', 'PUNCT']
+2.output for second sentence : ['NOUN', 'VERB', 'X', 'VERB', 'DETERMINER', 'NOUN', 'PREPOSITION', 'DETERMINER', 'NOUN', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
+
+3.output for third sentence : ['DETERMINER', 'NOUN', 'NOUN', 'CONJUNCTION', 'PRONOUN', 'NOUN', 'VERB', 'PREPOSITION', 'NOUN', 'DETERMINER', 'NOUN', 'DETERMINER', 'NOUN', 'PUNCT']
