@@ -2,6 +2,8 @@
 
 Developed a BILSTM model for part-of-speech (POS) tagging, using a modified Brown corpus as training data. To simplify the problem, we will use a tagset which is composed of 11 tags. i.e. Noun, Pronoun, Verb, Adjective, Adverb, Conjunction, Preposition, Determiner, Number, Punctuation and Other. User can enter their own sentences to get its POS tags.
 
+Project done as a part of CS 6320
+
 # Description
 
 The dataset used is a modified brown corpus, the full folder is available here: https://github.com/Nivz-28/Simple-Pos-Tagging/tree/main/brown_corpus_modified
