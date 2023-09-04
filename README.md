@@ -10,4 +10,13 @@ These are the following example test sentences:
 
 2.People continue to enquire the reason for the race for outer space .
 
-You can also use your own.
+3.the planet jupiter and its moons are in effect a mini solar system .
+
+(You can also use your own.)
+
+# How to run
+
+# Output
+output for first sentence : ['DETERMINER', 'NOUN', 'VERB', 'VERB', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
+output for second sentence : ['NOUN', 'VERB', 'X', 'VERB', 'DETERMINER', 'NOUN', 'PREPOSITION', 'DETERMINER', 'NOUN', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
+output for third sentence : ['DETERMINER', 'NOUN', 'NOUN', 'CONJUNCTION', 'PRONOUN', 'NOUN', 'VERB', 'PREPOSITION', 'NOUN', 'DETERMINER', 'NOUN', 'DETERMINER', 'NOUN', 'PUNCT']
