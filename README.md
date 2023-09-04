@@ -4,6 +4,8 @@ Developed a BILSTM model for part-of-speech (POS) tagging, using a modified Brow
 
 # Description
 
+The dataset used is a modified brown corpus, the full folder is available here:
+
 These are the following example test sentences:
 
 1.The Secretariat is expected to race tomorrow .
