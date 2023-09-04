@@ -21,10 +21,13 @@ To execute type this in terminal:
 Let the epochs run, after which these will pop up, enter these as well:
 
 Enter the number of test sentences:
+
 Enter a test sentence:
 
 
 # Output
 output for first sentence : ['DETERMINER', 'NOUN', 'VERB', 'VERB', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
+
 output for second sentence : ['NOUN', 'VERB', 'X', 'VERB', 'DETERMINER', 'NOUN', 'PREPOSITION', 'DETERMINER', 'NOUN', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
+
 output for third sentence : ['DETERMINER', 'NOUN', 'NOUN', 'CONJUNCTION', 'PRONOUN', 'NOUN', 'VERB', 'PREPOSITION', 'NOUN', 'DETERMINER', 'NOUN', 'DETERMINER', 'NOUN', 'PUNCT']
