@@ -4,7 +4,7 @@ Developed a BILSTM model for part-of-speech (POS) tagging, using a modified Brow
 
 # Description
 
-The dataset used is a modified brown corpus, the full folder is available here:
+The dataset used is a modified brown corpus, the full folder is available here: https://github.com/Nivz-28/Simple-Pos-Tagging/tree/main/brown_corpus_modified
 
 These are the following example test sentences:
 
